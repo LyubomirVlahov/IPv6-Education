@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="ApplicationServices-Web.config Connection String" description="ApplicationServices Connection String used in web.config by the application to access the database." defaultvalue="data source=.\SQLEXPRESS;Integrated Security=SSPI;AttachDBFilename=|DataDirectory|\aspnetdb.mdf;User Instance=true" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Diplomna\\WebApplication9\\WebApplication9\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ApplicationServices']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString-Web.config Connection String" description="ConnectionString Connection String used in web.config by the application to access the database." defaultvalue="Data Source=C:\Documents and Settings\lubo\My Documents\Visual Studio 2010\Projects\WebApplication9\WebApplication9\App_Data\Quiz.sdf;Password=mypassword" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Diplomna\\WebApplication9\\WebApplication9\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="QuizConnectionString-Web.config Connection String" description="QuizConnectionString Connection String used in web.config by the application to access the database." defaultvalue="Data Source=.\SQLEXPRESS;AttachDbFilename=&quot;C:\Documents and Settings\lubo\My Documents\Visual Studio 2010\Projects\WebApplication9\WebApplication9\App_Data\Quiz.mdf&quot;;Integrated Security=True;Connect Timeout=30;User Instance=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Diplomna\\WebApplication9\\WebApplication9\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='QuizConnectionString']/@connectionString" />
+  </parameter>
+  <parameter name="ConnectionString2-Web.config Connection String" description="ConnectionString2 Connection String used in web.config by the application to access the database." defaultvalue="Data Source=.\SQLEXPRESS;AttachDbFilename=|DataDirectory|\Quiz.mdf;Integrated Security=True;Connect Timeout=30;User Instance=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Diplomna\\WebApplication9\\WebApplication9\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='ConnectionString2']/@connectionString" />
+  </parameter>
+  <parameter name="QuizEntities-Web.config Connection String" description="QuizEntities Connection String used in web.config by the application to access the database." defaultvalue="metadata=res://*/Model.Model1.csdl|res://*/Model.Model1.ssdl|res://*/Model.Model1.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.\SQLEXPRESS;attachdbfilename=|DataDirectory|\Quiz.mdf;integrated security=True;connect timeout=30;user instance=True;multipleactiveresultsets=True;App=EntityFramework&quot;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\Diplomna\\WebApplication9\\WebApplication9\\obj\\Debug\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='QuizEntities']/@connectionString" />
+  </parameter>
+</parameters>

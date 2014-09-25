@@ -1,0 +1,15 @@
+c:\documents and settings\lubo\my documents\visual studio 2010\Projects\WebApplication9\WebApplication9\bin\WebApplication9.dll
+c:\documents and settings\lubo\my documents\visual studio 2010\Projects\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+c:\documents and settings\lubo\my documents\visual studio 2010\Projects\WebApplication9\WebApplication9\obj\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\lubo\my documents\visual studio 2010\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+c:\documents and settings\lubo\my documents\visual studio 2010\Projects\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+D:\Diplomna\WebApplication9\WebApplication9\bin\WebApplication9.dll
+D:\Diplomna\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+D:\Diplomna\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+D:\Diplomna\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
+D:\Diplomna\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+D:\Diplomna\WebApplication9_5\WebApplication9\WebApplication9\bin\WebApplication9.dll
+D:\Diplomna\WebApplication9_5\WebApplication9\WebApplication9\bin\WebApplication9.pdb
+D:\Diplomna\WebApplication9_5\WebApplication9\WebApplication9\obj\Debug\WebApplication9.csprojResolveAssemblyReference.cache
+D:\Diplomna\WebApplication9_5\WebApplication9\WebApplication9\obj\Debug\WebApplication9.dll
+D:\Diplomna\WebApplication9_5\WebApplication9\WebApplication9\obj\Debug\WebApplication9.pdb
